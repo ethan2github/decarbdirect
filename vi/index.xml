@@ -1,25 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Vi on Decarb Direct Partners</title>
+    <title>Decarb Direct Partners</title>
     <link>https://decarbdirect.com/vi/</link>
-    <description>Recent content in Vi on Decarb Direct Partners</description>
+    <description>Recent content on Decarb Direct Partners</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>vi</language>
     <atom:link href="https://decarbdirect.com/vi/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>FAQ</title>
-      <link>https://decarbdirect.com/vi/faq/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://decarbdirect.com/vi/faq/</guid>
-      <description>Contact us today to learn more about how our decarbonization consulting services can benefit your organization.&#xA;1. What is greenhouse gas accounting, and why is it important for businesses? Greenhouse gas accounting involves measuring, reporting, and managing emissions of gases that contribute to climate change. It&amp;rsquo;s important for businesses to understand their emissions to mitigate climate impact, comply with regulations, and enhance sustainability.&#xA;2. How do you collect and analyze greenhouse gas emissions data?</description>
-    </item>
-    <item>
-      <title>Liên hệ</title>
-      <link>https://decarbdirect.com/vi/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://decarbdirect.com/vi/contact/</guid>
-      <description>Chúng tôi luôn sẵn sàng hỗ trợ Decarb Direct cam kết đồng hành cùng quý công ty trên hành trình giảm phát thải khí nhà kính, hướng tới phát triển bền vững.&#xA;Để bắt đầu hành trình chuyển đổi xanh và bền vững, liên hệ ngay với Decarb Direct.</description>
-    </item>
   </channel>
 </rss>
