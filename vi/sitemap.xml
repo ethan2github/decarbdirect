@@ -3,6 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://decarbdirect.com/vi/authors/</loc>
+    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -15,6 +16,7 @@
                 />
   </url><url>
     <loc>https://decarbdirect.com/vi/categories/</loc>
+    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -26,7 +28,21 @@
                 href="https://decarbdirect.com/vi/categories/"
                 />
   </url><url>
+    <loc>https://decarbdirect.com/vi/decarbnews/categories-post/</loc>
+    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://decarbdirect.com/decarbnews/categories-post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://decarbdirect.com/vi/decarbnews/categories-post/"
+                />
+  </url><url>
     <loc>https://decarbdirect.com/vi/</loc>
+    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -38,7 +54,112 @@
                 href="https://decarbdirect.com/vi/"
                 />
   </url><url>
+    <loc>https://decarbdirect.com/vi/decarbnews/</loc>
+    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://decarbdirect.com/decarbnews/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://decarbdirect.com/vi/decarbnews/"
+                />
+  </url><url>
+    <loc>https://decarbdirect.com/vi/tags/golang/</loc>
+    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://decarbdirect.com/tags/golang/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://decarbdirect.com/vi/tags/golang/"
+                />
+  </url><url>
+    <loc>https://decarbdirect.com/vi/tags/hugo/</loc>
+    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://decarbdirect.com/tags/hugo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://decarbdirect.com/vi/tags/hugo/"
+                />
+  </url><url>
+    <loc>https://decarbdirect.com/vi/authors/john-doe/</loc>
+    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://decarbdirect.com/authors/john-doe/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://decarbdirect.com/vi/authors/john-doe/"
+                />
+  </url><url>
+    <loc>https://decarbdirect.com/vi/categories/lorem/</loc>
+    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://decarbdirect.com/categories/lorem/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://decarbdirect.com/vi/categories/lorem/"
+                />
+  </url><url>
+    <loc>https://decarbdirect.com/vi/tags/programming/</loc>
+    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://decarbdirect.com/tags/programming/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://decarbdirect.com/vi/tags/programming/"
+                />
+  </url><url>
+    <loc>https://decarbdirect.com/vi/categories/programming/</loc>
+    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://decarbdirect.com/categories/programming/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://decarbdirect.com/vi/categories/programming/"
+                />
+  </url><url>
+    <loc>https://decarbdirect.com/vi/categories/pseudo/</loc>
+    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://decarbdirect.com/categories/pseudo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://decarbdirect.com/vi/categories/pseudo/"
+                />
+  </url><url>
     <loc>https://decarbdirect.com/vi/tags/</loc>
+    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -48,6 +169,158 @@
                 rel="alternate"
                 hreflang="vi"
                 href="https://decarbdirect.com/vi/tags/"
+                />
+  </url><url>
+    <loc>https://decarbdirect.com/vi/tags/theme/</loc>
+    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://decarbdirect.com/tags/theme/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://decarbdirect.com/vi/tags/theme/"
+                />
+  </url><url>
+    <loc>https://decarbdirect.com/vi/authors/jane-doe/</loc>
+    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://decarbdirect.com/authors/jane-doe/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://decarbdirect.com/vi/authors/jane-doe/"
+                />
+  </url><url>
+    <loc>https://decarbdirect.com/vi/decarbnews/linked-post/</loc>
+    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://decarbdirect.com/decarbnews/linked-post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://decarbdirect.com/vi/decarbnews/linked-post/"
+                />
+  </url><url>
+    <loc>https://decarbdirect.com/vi/tags/go/</loc>
+    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://decarbdirect.com/tags/go/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://decarbdirect.com/vi/tags/go/"
+                />
+  </url><url>
+    <loc>https://decarbdirect.com/vi/decarbnews/go-is-for-lovers/</loc>
+    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://decarbdirect.com/decarbnews/go-is-for-lovers/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://decarbdirect.com/vi/decarbnews/go-is-for-lovers/"
+                />
+  </url><url>
+    <loc>https://decarbdirect.com/vi/decarbnews/hugo-is-for-lovers/</loc>
+    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://decarbdirect.com/decarbnews/hugo-is-for-lovers/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://decarbdirect.com/vi/decarbnews/hugo-is-for-lovers/"
+                />
+  </url><url>
+    <loc>https://decarbdirect.com/vi/decarbnews/creating-a-new-theme/</loc>
+    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://decarbdirect.com/decarbnews/creating-a-new-theme/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://decarbdirect.com/vi/decarbnews/creating-a-new-theme/"
+                />
+  </url><url>
+    <loc>https://decarbdirect.com/vi/categories/starting/</loc>
+    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://decarbdirect.com/categories/starting/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://decarbdirect.com/vi/categories/starting/"
+                />
+  </url><url>
+    <loc>https://decarbdirect.com/vi/faq/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://decarbdirect.com/faq/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://decarbdirect.com/vi/faq/"
+                />
+  </url><url>
+    <loc>https://decarbdirect.com/vi/tags/ipsum/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://decarbdirect.com/tags/ipsum/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://decarbdirect.com/vi/tags/ipsum/"
+                />
+  </url><url>
+    <loc>https://decarbdirect.com/vi/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://decarbdirect.com/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://decarbdirect.com/vi/contact/"
+                />
+  </url><url>
+    <loc>https://decarbdirect.com/vi/decarbnews/migrate-from-jekyll/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://decarbdirect.com/decarbnews/migrate-from-jekyll/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://decarbdirect.com/vi/decarbnews/migrate-from-jekyll/"
                 />
   </url>
 </urlset>
