@@ -2,108 +2,108 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Decarb Direct Partners</title>
-    <link>https://decarbdirect.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Decarb Direct Partners</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 01 Aug 2021 21:29:20 +0200</lastBuildDate>
-    <atom:link href="https://decarbdirect.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Categories Post</title>
-      <link>https://decarbdirect.com/decarbnews/categories-post/</link>
+      <link>http://localhost:1313/decarbnews/categories-post/</link>
       <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
-      <guid>https://decarbdirect.com/decarbnews/categories-post/</guid>
+      <guid>http://localhost:1313/decarbnews/categories-post/</guid>
       <description>I&amp;rsquo;m a post with multiple categories in the frontmatter:&#xA;categories = [&amp;quot;programming&amp;quot;,&amp;quot;lorem&amp;quot;,&amp;quot;pseudo&amp;quot;] Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus. Pellentesque sed tempus risus. Proin id hendrerit ante. Vestibulum vitae urna ut mauris ultricies dignissim.</description>
     </item>
     <item>
       <title>Linked post</title>
-      <link>https://decarbdirect.com/resources/resources/linked-post/</link>
+      <link>http://localhost:1313/resources/resources/linked-post/</link>
       <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
-      <guid>https://decarbdirect.com/resources/resources/linked-post/</guid>
+      <guid>http://localhost:1313/resources/resources/linked-post/</guid>
       <description>I&amp;rsquo;m a linked post in the menu. You can add other posts by adding the following line to the frontmatter:&#xA;menu = &amp;quot;main&amp;quot; Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus.</description>
     </item>
     <item>
       <title>Go is for lovers</title>
-      <link>https://decarbdirect.com/resources/resources/go-is-for-lovers/</link>
+      <link>http://localhost:1313/resources/resources/go-is-for-lovers/</link>
       <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
-      <guid>https://decarbdirect.com/resources/resources/go-is-for-lovers/</guid>
+      <guid>http://localhost:1313/resources/resources/go-is-for-lovers/</guid>
       <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.&#xA;This document is a brief primer on using go templates.</description>
     </item>
     <item>
       <title>Hugo is for lovers</title>
-      <link>https://decarbdirect.com/resources/resources/hugo-is-for-lovers/</link>
+      <link>http://localhost:1313/resources/resources/hugo-is-for-lovers/</link>
       <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
-      <guid>https://decarbdirect.com/resources/resources/hugo-is-for-lovers/</guid>
-      <description>This is the summary Goto &lt;a href=&#34;https://github.com/spf13/hugo/releases&#34;&gt;hugo releases&lt;/a&gt; and download the appropriate version for your os and architecture. Save it somewhere specific as we will be using it in the next step. More complete instructions are available at &lt;a href=&#34;https://decarbdirect.com/overview/installing/&#34;&gt;installing hugo&lt;/a&gt;</description>
+      <guid>http://localhost:1313/resources/resources/hugo-is-for-lovers/</guid>
+      <description>This is the summary Goto &lt;a href=&#34;https://github.com/spf13/hugo/releases&#34;&gt;hugo releases&lt;/a&gt; and download the appropriate version for your os and architecture. Save it somewhere specific as we will be using it in the next step. More complete instructions are available at &lt;a href=&#34;http://localhost:1313/overview/installing/&#34;&gt;installing hugo&lt;/a&gt;</description>
     </item>
     <item>
       <title>Creating a new theme</title>
-      <link>https://decarbdirect.com/decarbnews/creating-a-new-theme/</link>
+      <link>http://localhost:1313/decarbnews/creating-a-new-theme/</link>
       <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
-      <guid>https://decarbdirect.com/decarbnews/creating-a-new-theme/</guid>
+      <guid>http://localhost:1313/decarbnews/creating-a-new-theme/</guid>
       <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.&#xA;We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
     </item>
     <item>
       <title>Contact</title>
-      <link>https://decarbdirect.com/contact/</link>
+      <link>http://localhost:1313/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://decarbdirect.com/contact/</guid>
+      <guid>http://localhost:1313/contact/</guid>
       <description>We are here to help you we&amp;rsquo;re committed to driving positive change through decarbonization consulting. Our team of experts specializes in providing tailored solutions to help businesses and organizations reduce their carbon footprint and transition towards sustainable practices. From assessing current emissions to implementing strategic initiatives, we&amp;rsquo;re dedicated to guiding you towards a greener, more sustainable future.&#xA;Contact us today to learn more about how our decarbonization consulting services can benefit your organization.</description>
     </item>
     <item>
       <title>Decarb Solutions</title>
-      <link>https://decarbdirect.com/products/products/solutions/</link>
+      <link>http://localhost:1313/products/solutions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://decarbdirect.com/products/products/solutions/</guid>
+      <guid>http://localhost:1313/products/solutions/</guid>
       <description>Decarb Solutions The Decarbonization Solutions showcases innovative strategies and technologies aimed at reducing carbon emissions and promoting sustainability. It provides users with insights into various decarbonization initiatives, including renewable energy adoption, energy efficiency improvements, carbon capture and storage, and sustainable transportation solutions.</description>
     </item>
     <item>
       <title>FAQ</title>
-      <link>https://decarbdirect.com/faq/</link>
+      <link>http://localhost:1313/faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://decarbdirect.com/faq/</guid>
+      <guid>http://localhost:1313/faq/</guid>
       <description>Contact us today to learn more about how our decarbonization consulting services can benefit your organization.&#xA;1. What is greenhouse gas accounting, and why is it important for businesses? Greenhouse gas accounting involves measuring, reporting, and managing emissions of gases that contribute to climate change. It&amp;rsquo;s important for businesses to understand their emissions to mitigate climate impact, comply with regulations, and enhance sustainability.&#xA;2. How do you collect and analyze greenhouse gas emissions data?</description>
     </item>
     <item>
       <title>GHG Analytics</title>
-      <link>https://decarbdirect.com/products/products/analytics/</link>
+      <link>http://localhost:1313/products/analytics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://decarbdirect.com/products/products/analytics/</guid>
+      <guid>http://localhost:1313/products/analytics/</guid>
       <description>GHG Analytics GHG analytics function enables the analysis of greenhouse gas emissions data to identify trends, patterns, and insights. It helps organizations understand their carbon footprint, track emission sources, and evaluate the effectiveness of emission reduction strategies.</description>
     </item>
     <item>
       <title>GHG dashboard</title>
-      <link>https://decarbdirect.com/products/products/dashboard/</link>
+      <link>http://localhost:1313/products/dashboard/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://decarbdirect.com/products/products/dashboard/</guid>
+      <guid>http://localhost:1313/products/dashboard/</guid>
       <description>GHG dashboard A GHG dashboard is a digital tool that provides a quick overview of an organization&amp;rsquo;s greenhouse gas emissions. It offers real-time data visualization, emission breakdown by source, historical analysis, and goal tracking. Users can easily monitor emissions, identify trends, and track progress towards sustainability targets.</description>
     </item>
     <item>
       <title>GHG Reporting</title>
-      <link>https://decarbdirect.com/products/products/reporting/</link>
+      <link>http://localhost:1313/products/reporting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://decarbdirect.com/products/products/reporting/</guid>
+      <guid>http://localhost:1313/products/reporting/</guid>
       <description>GHG Reporting The GHG Reporting enables users to accurately measure, track, and report greenhouse gas emissions data. It simplifies the process of collecting emission data from various sources, ensuring compliance with regulatory requirements and facilitating transparent communication of environmental performance.</description>
     </item>
     <item>
       <title>Migrate from Jekyll</title>
-      <link>https://decarbdirect.com/resources/resources/migrate-from-jekyll/</link>
+      <link>http://localhost:1313/resources/resources/migrate-from-jekyll/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://decarbdirect.com/resources/resources/migrate-from-jekyll/</guid>
+      <guid>http://localhost:1313/resources/resources/migrate-from-jekyll/</guid>
       <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like&#xA;▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png should become&#xA;▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
     </item>
     <item>
       <title>Mission and Vision</title>
-      <link>https://decarbdirect.com/mission/</link>
+      <link>http://localhost:1313/mission/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://decarbdirect.com/mission/</guid>
+      <guid>http://localhost:1313/mission/</guid>
       <description>We are here to help you we&amp;rsquo;re committed to driving positive change through decarbonization consulting. Our team of experts specializes in providing tailored solutions to help businesses and organizations reduce their carbon footprint and transition towards sustainable practices. From assessing current emissions to implementing strategic initiatives, we&amp;rsquo;re dedicated to guiding you towards a greener, more sustainable future.&#xA;Contact us today to learn more about how our decarbonization consulting services can benefit your organization.</description>
     </item>
     <item>
       <title>Partnership</title>
-      <link>https://decarbdirect.com/partnership/</link>
+      <link>http://localhost:1313/partnership/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://decarbdirect.com/partnership/</guid>
+      <guid>http://localhost:1313/partnership/</guid>
       <description>We are here to help you we&amp;rsquo;re committed to driving positive change through decarbonization consulting. Our team of experts specializes in providing tailored solutions to help businesses and organizations reduce their carbon footprint and transition towards sustainable practices. From assessing current emissions to implementing strategic initiatives, we&amp;rsquo;re dedicated to guiding you towards a greener, more sustainable future.&#xA;Contact us today to learn more about how our decarbonization consulting services can benefit your organization.</description>
     </item>
   </channel>
