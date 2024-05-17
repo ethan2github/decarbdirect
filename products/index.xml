@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Decarb Direct Platform on Decarb Direct Partners</title>
+    <link>https://decarbdirect.com/products/</link>
+    <description>Recent content in Decarb Direct Platform on Decarb Direct Partners</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="https://decarbdirect.com/products/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Decarb Solutions</title>
+      <link>https://decarbdirect.com/products/products/solutions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://decarbdirect.com/products/products/solutions/</guid>
+      <description>Decarb Solutions The Decarbonization Solutions showcases innovative strategies and technologies aimed at reducing carbon emissions and promoting sustainability. It provides users with insights into various decarbonization initiatives, including renewable energy adoption, energy efficiency improvements, carbon capture and storage, and sustainable transportation solutions.</description>
+    </item>
+    <item>
+      <title>GHG Analytics</title>
+      <link>https://decarbdirect.com/products/products/analytics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://decarbdirect.com/products/products/analytics/</guid>
+      <description>GHG Analytics GHG analytics function enables the analysis of greenhouse gas emissions data to identify trends, patterns, and insights. It helps organizations understand their carbon footprint, track emission sources, and evaluate the effectiveness of emission reduction strategies.</description>
+    </item>
+    <item>
+      <title>GHG dashboard</title>
+      <link>https://decarbdirect.com/products/products/dashboard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://decarbdirect.com/products/products/dashboard/</guid>
+      <description>GHG dashboard A GHG dashboard is a digital tool that provides a quick overview of an organization&amp;rsquo;s greenhouse gas emissions. It offers real-time data visualization, emission breakdown by source, historical analysis, and goal tracking. Users can easily monitor emissions, identify trends, and track progress towards sustainability targets.</description>
+    </item>
+    <item>
+      <title>GHG Reporting</title>
+      <link>https://decarbdirect.com/products/products/reporting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://decarbdirect.com/products/products/reporting/</guid>
+      <description>GHG Reporting The GHG Reporting enables users to accurately measure, track, and report greenhouse gas emissions data. It simplifies the process of collecting emission data from various sources, ensuring compliance with regulatory requirements and facilitating transparent communication of environmental performance.</description>
+    </item>
+  </channel>
+</rss>
