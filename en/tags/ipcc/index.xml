@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IPCC on Decarb Direct Partners</title>
+    <link>https://decarbdirect.com/en/tags/ipcc/</link>
+    <description>Recent content in IPCC on Decarb Direct Partners</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 20 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://decarbdirect.com/en/tags/ipcc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IPCC Sixth Assessment Report</title>
+      <link>https://decarbdirect.com/en/resources/ar6/</link>
+      <pubDate>Mon, 20 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://decarbdirect.com/en/resources/ar6/</guid>
+      <description>During the sixth assessment cycle (October 2015 to July 2023) the IPCC produced the Sixth Assessment Report (AR6) with contributions by its three Working Groups and a Synthesis Report, three Special Reports, and a refinement to its latest Methodology Report.&#xA;Summary for policy makers&#xA;The Synthesis Report</description>
+    </item>
+    <item>
+      <title>2006 IPCC Guidelines for National Greenhouse Gas Inventories (2019 Refinement)</title>
+      <link>https://decarbdirect.com/en/resources/2006-ipcc/</link>
+      <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://decarbdirect.com/en/resources/2006-ipcc/</guid>
+      <description>The 2006 IPCC Guidelines for National Greenhouse Gas Inventories offer a standardized framework for countries to systematically measure and report their greenhouse gas emissions and removals across various sectors. Aimed at ensuring consistency, comparability, and transparency, these guidelines support international climate commitments.&#xA;The 2019 Refinement updates this framework with the latest scientific and technical advancements, enhancing methodologies, emission factors, and guidance for emerging issues, thereby improving the accuracy and reliability of national GHG inventories essential for effective climate change mitigation and policy-making.</description>
+    </item>
+  </channel>
+</rss>

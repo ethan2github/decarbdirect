@@ -2,52 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Decarb Direct Partners</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://decarbdirect.com/tags/</link>
     <description>Recent content in Tags on Decarb Direct Partners</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Sun, 01 Aug 2021 21:29:20 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>vi</language>
+    <lastBuildDate>Mon, 20 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://decarbdirect.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Golang</title>
-      <link>http://localhost:1313/tags/golang/</link>
-      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
-      <guid>http://localhost:1313/tags/golang/</guid>
+      <title>AR6</title>
+      <link>https://decarbdirect.com/tags/ar6/</link>
+      <pubDate>Mon, 20 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://decarbdirect.com/tags/ar6/</guid>
       <description></description>
     </item>
     <item>
-      <title>Hugo</title>
-      <link>http://localhost:1313/tags/hugo/</link>
-      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
-      <guid>http://localhost:1313/tags/hugo/</guid>
+      <title>IPCC</title>
+      <link>https://decarbdirect.com/tags/ipcc/</link>
+      <pubDate>Mon, 20 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://decarbdirect.com/tags/ipcc/</guid>
       <description></description>
     </item>
     <item>
-      <title>Programming</title>
-      <link>http://localhost:1313/tags/programming/</link>
-      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
-      <guid>http://localhost:1313/tags/programming/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Theme</title>
-      <link>http://localhost:1313/tags/theme/</link>
-      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
-      <guid>http://localhost:1313/tags/theme/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Go</title>
-      <link>http://localhost:1313/tags/go/</link>
-      <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
-      <guid>http://localhost:1313/tags/go/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Ipsum</title>
-      <link>http://localhost:1313/tags/ipsum/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/ipsum/</guid>
+      <title>COP21</title>
+      <link>https://decarbdirect.com/tags/cop21/</link>
+      <pubDate>Sat, 12 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://decarbdirect.com/tags/cop21/</guid>
       <description></description>
     </item>
   </channel>

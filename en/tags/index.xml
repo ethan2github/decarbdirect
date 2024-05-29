@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Decarb Direct Partners</title>
+    <link>https://decarbdirect.com/en/tags/</link>
+    <description>Recent content in Tags on Decarb Direct Partners</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 20 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://decarbdirect.com/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AR6</title>
+      <link>https://decarbdirect.com/en/tags/ar6/</link>
+      <pubDate>Mon, 20 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://decarbdirect.com/en/tags/ar6/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IPCC</title>
+      <link>https://decarbdirect.com/en/tags/ipcc/</link>
+      <pubDate>Mon, 20 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://decarbdirect.com/en/tags/ipcc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>COP21</title>
+      <link>https://decarbdirect.com/en/tags/cop21/</link>
+      <pubDate>Sat, 12 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://decarbdirect.com/en/tags/cop21/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Go</title>
+      <link>https://decarbdirect.com/en/tags/go/</link>
+      <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
+      <guid>https://decarbdirect.com/en/tags/go/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hugo</title>
+      <link>https://decarbdirect.com/en/tags/hugo/</link>
+      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      <guid>https://decarbdirect.com/en/tags/hugo/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

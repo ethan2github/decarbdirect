@@ -2,460 +2,317 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/vi/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <loc>https://decarbdirect.com/products/dashboard/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/"
+                href="https://decarbdirect.com/en/products/dashboard/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://localhost:1313/vi/"
+                href="https://decarbdirect.com/products/dashboard/"
                 />
   </url><url>
-    <loc>http://localhost:1313/vi/authors/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <loc>https://decarbdirect.com/products/analytics/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/authors/"
+                href="https://decarbdirect.com/en/products/analytics/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://localhost:1313/vi/authors/"
+                href="https://decarbdirect.com/products/analytics/"
                 />
   </url><url>
-    <loc>http://localhost:1313/vi/decarbnews/categories-post/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <loc>https://decarbdirect.com/products/reporting/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/decarbnews/categories-post/"
+                href="https://decarbdirect.com/en/products/reporting/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://localhost:1313/vi/decarbnews/categories-post/"
+                href="https://decarbdirect.com/products/reporting/"
                 />
   </url><url>
-    <loc>http://localhost:1313/vi/categories/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <loc>https://decarbdirect.com/products/solutions/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/categories/"
+                href="https://decarbdirect.com/en/products/solutions/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://localhost:1313/vi/categories/"
+                href="https://decarbdirect.com/products/solutions/"
                 />
   </url><url>
-    <loc>http://localhost:1313/vi/tags/golang/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <loc>https://decarbdirect.com/</loc>
+    <lastmod>2023-03-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/golang/"
+                href="https://decarbdirect.com/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://localhost:1313/vi/tags/golang/"
+                href="https://decarbdirect.com/"
                 />
   </url><url>
-    <loc>http://localhost:1313/vi/tags/hugo/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <loc>https://decarbdirect.com/tags/ar6/</loc>
+    <lastmod>2023-03-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/hugo/"
+                href="https://decarbdirect.com/en/tags/ar6/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://localhost:1313/vi/tags/hugo/"
+                href="https://decarbdirect.com/tags/ar6/"
                 />
   </url><url>
-    <loc>http://localhost:1313/vi/authors/john-doe/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <loc>https://decarbdirect.com/resources/ar6/</loc>
+    <lastmod>2023-03-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/authors/john-doe/"
+                href="https://decarbdirect.com/en/resources/ar6/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://localhost:1313/vi/authors/john-doe/"
+                href="https://decarbdirect.com/resources/ar6/"
                 />
   </url><url>
-    <loc>http://localhost:1313/vi/categories/lorem/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <loc>https://decarbdirect.com/resources/regulatory/</loc>
+    <lastmod>2023-03-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/categories/lorem/"
+                href="https://decarbdirect.com/en/resources/regulatory/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://localhost:1313/vi/categories/lorem/"
+                href="https://decarbdirect.com/resources/regulatory/"
                 />
   </url><url>
-    <loc>http://localhost:1313/vi/tags/programming/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <loc>https://decarbdirect.com/categories/</loc>
+    <lastmod>2023-03-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/programming/"
+                href="https://decarbdirect.com/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://localhost:1313/vi/tags/programming/"
+                href="https://decarbdirect.com/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/vi/categories/programming/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <loc>https://decarbdirect.com/categories/international/</loc>
+    <lastmod>2023-03-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/categories/programming/"
+                href="https://decarbdirect.com/en/categories/international/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://localhost:1313/vi/categories/programming/"
+                href="https://decarbdirect.com/categories/international/"
                 />
   </url><url>
-    <loc>http://localhost:1313/vi/categories/pseudo/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <loc>https://decarbdirect.com/tags/ipcc/</loc>
+    <lastmod>2023-03-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/categories/pseudo/"
+                href="https://decarbdirect.com/en/tags/ipcc/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://localhost:1313/vi/categories/pseudo/"
+                href="https://decarbdirect.com/tags/ipcc/"
                 />
   </url><url>
-    <loc>http://localhost:1313/vi/tags/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <loc>https://decarbdirect.com/tags/</loc>
+    <lastmod>2023-03-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/"
+                href="https://decarbdirect.com/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://localhost:1313/vi/tags/"
+                href="https://decarbdirect.com/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/vi/tags/theme/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <loc>https://decarbdirect.com/resources/</loc>
+    <lastmod>2023-03-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/theme/"
+                href="https://decarbdirect.com/en/resources/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://localhost:1313/vi/tags/theme/"
+                href="https://decarbdirect.com/resources/"
                 />
   </url><url>
-    <loc>http://localhost:1313/vi/decarbnews/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <loc>https://decarbdirect.com/resources/2006-ipcc/</loc>
+    <lastmod>2019-05-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/decarbnews/"
+                href="https://decarbdirect.com/en/resources/2006-ipcc/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://localhost:1313/vi/decarbnews/"
+                href="https://decarbdirect.com/resources/2006-ipcc/"
                 />
   </url><url>
-    <loc>http://localhost:1313/vi/authors/jane-doe/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <loc>https://decarbdirect.com/resources/guidelines/</loc>
+    <lastmod>2019-05-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/authors/jane-doe/"
+                href="https://decarbdirect.com/en/resources/guidelines/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://localhost:1313/vi/authors/jane-doe/"
+                href="https://decarbdirect.com/resources/guidelines/"
                 />
   </url><url>
-    <loc>http://localhost:1313/vi/resources/guidelines/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <loc>https://decarbdirect.com/tags/cop21/</loc>
+    <lastmod>2015-12-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/resources/guidelines/"
+                href="https://decarbdirect.com/en/tags/cop21/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://localhost:1313/vi/resources/guidelines/"
+                href="https://decarbdirect.com/tags/cop21/"
                 />
   </url><url>
-    <loc>http://localhost:1313/vi/resources/resources/linked-post/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <loc>https://decarbdirect.com/resources/the-paris/</loc>
+    <lastmod>2015-12-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/resources/resources/linked-post/"
+                href="https://decarbdirect.com/en/resources/the-paris/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://localhost:1313/vi/resources/resources/linked-post/"
+                href="https://decarbdirect.com/resources/the-paris/"
                 />
   </url><url>
-    <loc>http://localhost:1313/vi/resources/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <loc>https://decarbdirect.com/authors/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/resources/"
+                href="https://decarbdirect.com/en/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://localhost:1313/vi/resources/"
+                href="https://decarbdirect.com/authors/"
                 />
   </url><url>
-    <loc>http://localhost:1313/vi/resources/resources/go-is-for-lovers/</loc>
-    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
+    <loc>https://decarbdirect.com/products/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/resources/resources/go-is-for-lovers/"
+                href="https://decarbdirect.com/en/products/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://localhost:1313/vi/resources/resources/go-is-for-lovers/"
+                href="https://decarbdirect.com/products/"
                 />
   </url><url>
-    <loc>http://localhost:1313/vi/resources/cases/</loc>
-    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
+    <loc>https://decarbdirect.com/resources/cases/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/resources/cases/"
+                href="https://decarbdirect.com/en/resources/cases/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://localhost:1313/vi/resources/cases/"
+                href="https://decarbdirect.com/resources/cases/"
                 />
   </url><url>
-    <loc>http://localhost:1313/vi/tags/go/</loc>
-    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
+    <loc>https://decarbdirect.com/faq/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/go/"
+                href="https://decarbdirect.com/en/faq/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://localhost:1313/vi/tags/go/"
+                href="https://decarbdirect.com/faq/"
                 />
   </url><url>
-    <loc>http://localhost:1313/vi/resources/resources/hugo-is-for-lovers/</loc>
-    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
+    <loc>https://decarbdirect.com/partnership/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/resources/resources/hugo-is-for-lovers/"
+                href="https://decarbdirect.com/en/partnership/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://localhost:1313/vi/resources/resources/hugo-is-for-lovers/"
+                href="https://decarbdirect.com/partnership/"
                 />
   </url><url>
-    <loc>http://localhost:1313/vi/decarbnews/creating-a-new-theme/</loc>
-    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
+    <loc>https://decarbdirect.com/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/decarbnews/creating-a-new-theme/"
+                href="https://decarbdirect.com/en/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://localhost:1313/vi/decarbnews/creating-a-new-theme/"
+                href="https://decarbdirect.com/contact/"
                 />
   </url><url>
-    <loc>http://localhost:1313/vi/categories/starting/</loc>
-    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
+    <loc>https://decarbdirect.com/mission/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/categories/starting/"
+                href="https://decarbdirect.com/en/mission/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://localhost:1313/vi/categories/starting/"
+                href="https://decarbdirect.com/mission/"
                 />
   </url><url>
-    <loc>http://localhost:1313/vi/resources/regulatory/</loc>
+    <loc>https://decarbdirect.com/decarbnews/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/resources/regulatory/"
+                href="https://decarbdirect.com/en/decarbnews/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://localhost:1313/vi/resources/regulatory/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/vi/resources/resources/migrate-from-jekyll/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/resources/resources/migrate-from-jekyll/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="http://localhost:1313/vi/resources/resources/migrate-from-jekyll/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/vi/products/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/products/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="http://localhost:1313/vi/products/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/vi/products/solutions/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/products/solutions/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="http://localhost:1313/vi/products/solutions/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/vi/faq/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/faq/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="http://localhost:1313/vi/faq/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/vi/products/analytics/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/products/analytics/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="http://localhost:1313/vi/products/analytics/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/vi/products/dashboard/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/products/dashboard/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="http://localhost:1313/vi/products/dashboard/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/vi/products/reporting/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/products/reporting/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="http://localhost:1313/vi/products/reporting/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/vi/partnership/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/partnership/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="http://localhost:1313/vi/partnership/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/vi/tags/ipsum/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/tags/ipsum/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="http://localhost:1313/vi/tags/ipsum/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/vi/contact/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="http://localhost:1313/vi/contact/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/vi/mission/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/mission/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="http://localhost:1313/vi/mission/"
+                href="https://decarbdirect.com/decarbnews/"
                 />
   </url>
 </urlset>

@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Decarb Guidelines on Decarb Direct Partners</title>
-    <link>http://localhost:1313/resources/guidelines/</link>
-    <description>Recent content in Decarb Guidelines on Decarb Direct Partners</description>
+    <title>Sổ tay hướng dẫn Decarb on Decarb Direct Partners</title>
+    <link>https://decarbdirect.com/resources/guidelines/</link>
+    <description>Recent content in Sổ tay hướng dẫn Decarb on Decarb Direct Partners</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Fri, 02 Oct 2015 21:49:20 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/resources/guidelines/index.xml" rel="self" type="application/rss+xml" />
+    <language>vi</language>
+    <lastBuildDate>Fri, 31 May 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://decarbdirect.com/resources/guidelines/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Linked post</title>
-      <link>http://localhost:1313/resources/resources/linked-post/</link>
-      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
-      <guid>http://localhost:1313/resources/resources/linked-post/</guid>
-      <description>I&amp;rsquo;m a linked post in the menu. You can add other posts by adding the following line to the frontmatter:&#xA;menu = &amp;quot;main&amp;quot; Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus.</description>
+      <title>Hướng Dẫn Kiểm Kê Khí Nhà Kính Quốc Gia IPCC 2006 (cập nhật 2019)</title>
+      <link>https://decarbdirect.com/resources/2006-ipcc/</link>
+      <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://decarbdirect.com/resources/2006-ipcc/</guid>
+      <description>Hướng dẫn của IPCC năm 2006 về Kiểm kê Khí nhà kính Quốc gia cung cấp một khuôn khổ tiêu chuẩn hóa cho các quốc gia đo lường và báo cáo có hệ thống lượng phát thải và loại bỏ khí nhà kính trên nhiều lĩnh vực khác nhau.&#xA;Bản Điều chỉnh năm 2019 cập nhật những tiến bộ khoa học và kỹ thuật mới nhất, nâng cao các phương pháp, hệ số phát thải và hướng dẫn cho các vấn đề mới nổi, do đó cải thiện độ chính xác và độ tin cậy của các kiểm kê GHG quốc gia cần thiết cho việc giảm nhẹ và xây dựng chính sách biến đổi khí hậu hiệu quả.</description>
     </item>
   </channel>
 </rss>

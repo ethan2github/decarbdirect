@@ -1,13 +1,13 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="vi">
 
-  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <head>
     <meta charset="utf-8">
 <meta name="robots" content="all,follow">
 <meta name="googlebot" content="index,follow,snippet,archive">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<title>Decarb News</title>
+<title>Tin tức Decarb</title>
 <meta name="author" content="ddp" />
 
 
@@ -16,7 +16,7 @@
 <meta name="keywords" content="decarbonization, update, GHG news">
 
 
-<meta name="description" content="Latest Updates and Insights in Policy, Decarbonization, Sustainable Development, and Emissions Reduction Efforts">
+<meta name="description" content="Cập nhật các bài viết mới nhát liên quan tới biến đổi khí hậu, và phát triển bền vững">
 
 <meta name="generator" content="Hugo 0.124.1">
 
@@ -36,7 +36,7 @@
 
 
 
-<link href="/css/custom.css?1715965548" rel="stylesheet">
+<link href="/css/custom.css?1716940912" rel="stylesheet">
 
 
 
@@ -55,7 +55,7 @@
 <link href="/css/owl.theme.css" rel="stylesheet">
 
 
-<link rel="alternate" href="http://localhost:1313/index.xml" type="application/rss+xml" title="Decarb Direct Partners">
+<link rel="alternate" href="https://decarbdirect.com/index.xml" type="application/rss+xml" title="Decarb Direct Partners">
 
 
 
@@ -63,15 +63,15 @@
 
 
 
-<meta property="og:updated_time" content="2021-08-01T21:29:20&#43;0200">
+
 
 
 
 <meta name="twitter:card" content="summary">
 
-<meta name="twitter:title" content="Decarb News">
+<meta name="twitter:title" content="Tin tức Decarb">
 
-<meta name="twitter:description" content="Latest Updates and Insights in Policy, Decarbonization, Sustainable Development, and Emissions Reduction Efforts">
+<meta name="twitter:description" content="Cập nhật các bài viết mới nhát liên quan tới biến đổi khí hậu, và phát triển bền vững">
 
 
 
@@ -91,10 +91,10 @@
             <div class="navbar-header">
                 <a class="navbar-brand home" href="/">
                     
-                      <img src="/img/logo.png" alt="Decarb News logo" class="hidden-xs hidden-sm" />
-                      <img src="/img/logo-small.png" alt="Decarb News logo" class="visible-xs visible-sm" />
+                      <img src="/img/logo.png" alt="Tin tức Decarb logo" class="hidden-xs hidden-sm" />
+                      <img src="/img/logo-small.png" alt="Tin tức Decarb logo" class="visible-xs visible-sm" />
                     
-                    <span class="sr-only">Decarb News - go to homepage</span>
+                    <span class="sr-only">Tin tức Decarb - Quay lại Trang chủ</span>
                 </a>
                 <div class="navbar-buttons">
                     <button type="button" class="navbar-toggle btn-template-main" data-toggle="collapse" data-target="#navigation">
@@ -123,11 +123,11 @@
                     
                     
                     <li class="dropdown ">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Products <span class="caret"></span></a>
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Sản phẩm <span class="caret"></span></a>
                         
                         <ul class="dropdown-menu">
                             
-                            <li><a href="/products/dashboard/">GHG Dashboard</a></li>
+                            <li><a href="/products/dashboard">GHG Dashboard</a></li>
                             
                             <li><a href="/products/analytics/">GHG Analytics</a></li>
                             
@@ -153,13 +153,13 @@
                     
                     
                     <li class="dropdown ">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Resources <span class="caret"></span></a>
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Thư viện <span class="caret"></span></a>
                         
                         <ul class="dropdown-menu">
                             
-                            <li><a href="/resources/regulatory">Regulatory Updates</a></li>
+                            <li><a href="/resources/regulatory">Chính sách &amp; quy định mới</a></li>
                             
-                            <li><a href="/resources/guidelines">Decarb Guidelines</a></li>
+                            <li><a href="/resources/guidelines">Sổ tay hướng dẫn</a></li>
                             
                             <li><a href="/resources/cases">Case studies</a></li>
                             
@@ -198,15 +198,15 @@
                     
                     
                     <li class="dropdown ">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">About us <span class="caret"></span></a>
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Về Decarb Direct <span class="caret"></span></a>
                         
                         <ul class="dropdown-menu">
                             
-                            <li><a href="/mission/">Mission &amp; Vision</a></li>
+                            <li><a href="/mission/">Sứ mệnh &amp; Tầm nhìn</a></li>
                             
-                            <li><a href="/partnership/">Partnership</a></li>
+                            <li><a href="/partnership/">Hợp tác</a></li>
                             
-                            <li><a href="/contact/">Contact us</a></li>
+                            <li><a href="/contact/">Liên hệ</a></li>
                             
                         </ul>
                         
@@ -232,10 +232,30 @@
     </div>
     <div class="language-switcher">
       
-      <select onchange="location = this.value;">
-    <option value="/" selected>English</option>
-    <option value="/vi/" >Vietnamese</option>
+      <select id="languageSwitcher">
+    <option value="vi" selected>Vietnamese</option>
+    <option value="en" >English</option>
 </select>
+
+<script>
+    document.getElementById('languageSwitcher').addEventListener('change', function() {
+        var currentUrl = window.location.pathname;
+        var selectedLang = this.value;
+        var newUrl;
+
+        if (selectedLang === 'vi') {
+            newUrl = currentUrl.replace(/^\/en\//, '/');  
+        } else if (selectedLang === 'en') {
+            if (currentUrl.startsWith('/en/')) {
+                newUrl = currentUrl;  
+            } else {
+                newUrl = '/en' + currentUrl;  
+            }
+        }
+
+        window.location.href = newUrl;
+    });
+</script>
 
     </div>
 </header>
@@ -247,7 +267,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <h1>Decarb News</h1>
+                <h1>Tin tức Decarb</h1>
             </div>
         </div>
     </div>
@@ -263,158 +283,14 @@
 
                         
                         
-                        <section class="post">
-                            <div class="row">
-                                <div class="col-md-4">
-                                  <div class="image">
-                                      <a href="http://localhost:1313/decarbnews/categories-post/">
-                                          
-                                          <img src="/img/banners/banner-3.jpg" class="img-responsive" alt="">
-                                          
-                                      </a>
-                                  </div>
-                                </div>
-                                <div class="col-md-8">
-                                    <h2><a href="http://localhost:1313/decarbnews/categories-post/">Categories Post</a></h2>
-                                    <div class="clearfix">
-                                        <p class="author-category">
-                                          
-					  By <a href="/authors/john-doe">John Doe</a>
-                                          
-                                          
-                                          
-                                          in 
-                                          
-                                              <a href="/categories/programming">programming</a>, 
-                                              <a href="/categories/lorem">lorem</a>, 
-                                              <a href="/categories/pseudo">pseudo</a>
-                                          
-                                          
-
-                                        </p>
-                                        
-
-                                        
-                                        
-                                            
-                                        
-                                            
-                                        
-                                            
-                                        
-                                            
-                                        
-                                            
-                                        
-                                            
-                                        
-                                            
-                                        
-                                            
-                                        
-                                            
-                                        
-                                            
-                                        
-                                            
-                                        
-                                            
-                                        
-
-                                        <p class="date-comments">
-                                            <a href="http://localhost:1313/decarbnews/categories-post/"><i class="far fa-calendar"></i> August 1, 2021</a>
-                                        </p>
-                                        
-                                    </div>
-                                    
-                                    <p class="intro">I&rsquo;m a post with multiple categories in the frontmatter:
-categories = [&quot;programming&quot;,&quot;lorem&quot;,&quot;pseudo&quot;] Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus. Pellentesque sed tempus risus. Proin id hendrerit ante. Vestibulum vitae urna ut mauris ultricies dignissim.</p>
-                                    <p class="read-more"><a href="http://localhost:1313/decarbnews/categories-post/" class="btn btn-template-main">Continue reading</a>
-                                    </p>
-                                    
-                                </div>
-                            </div>
-                        </section>
-                        
-                        <section class="post">
-                            <div class="row">
-                                <div class="col-md-4">
-                                  <div class="image">
-                                      <a href="http://localhost:1313/decarbnews/creating-a-new-theme/">
-                                          
-                                          <img src="/img/banners/banner-1.jpg" class="img-responsive" alt="">
-                                          
-                                      </a>
-                                  </div>
-                                </div>
-                                <div class="col-md-8">
-                                    <h2><a href="http://localhost:1313/decarbnews/creating-a-new-theme/">Creating a new theme</a></h2>
-                                    <div class="clearfix">
-                                        <p class="author-category">
-                                          
-					  By <a href="/authors/jane-doe">Jane Doe</a>
-                                          
-                                          
-                                          
-                                          in 
-                                          
-                                              <a href="/categories/starting">starting</a>
-                                          
-                                          
-
-                                        </p>
-                                        
-
-                                        
-                                        
-                                            
-                                        
-                                            
-                                        
-                                            
-                                        
-                                            
-                                        
-                                            
-                                        
-                                            
-                                        
-                                            
-                                        
-                                            
-                                        
-                                            
-                                        
-                                            
-                                        
-                                            
-                                        
-                                            
-                                        
-
-                                        <p class="date-comments">
-                                            <a href="http://localhost:1313/decarbnews/creating-a-new-theme/"><i class="far fa-calendar"></i> June 24, 2015</a>
-                                        </p>
-                                        
-                                    </div>
-                                    
-                                    <p class="intro">Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&rsquo;t cover using CSS to style your theme.
-We&rsquo;ll start with creating a new site with a very basic template.</p>
-                                    <p class="read-more"><a href="http://localhost:1313/decarbnews/creating-a-new-theme/" class="btn btn-template-main">Continue reading</a>
-                                    </p>
-                                    
-                                </div>
-                            </div>
-                        </section>
-                        
 
                         <ul class="pager">
                             
-                            <li class="previous disabled"><a href="#">&larr; Newer</a></li>
+                            <li class="previous disabled"><a href="#">&larr; Mới hơn</a></li>
                             
 
                             
-                            <li class="next disabled"><a href="#">Older &rarr;</a></li>
+                            <li class="next disabled"><a href="#">Cũ hơn &rarr;</a></li>
                             
                         </ul>
                     </div>
@@ -433,14 +309,14 @@ We&rsquo;ll start with creating a new site with a very basic template.</p>
 <div class="panel panel-default sidebar-menu">
 
     <div class="panel-heading">
-      <h3 class="panel-title">Search</h3>
+      <h3 class="panel-title">Tìm kiếm</h3>
     </div>
 
     <div class="panel-body">
         <form action="//google.com/search" method="get" accept-charset="UTF-8" role="search">
             <div class="input-group">
-                <input type="search" name="q" class="form-control" placeholder="Search">
-                <input type="hidden" name="sitesearch" value="http://localhost:1313/">
+                <input type="search" name="q" class="form-control" placeholder="Tìm kiếm">
+                <input type="hidden" name="sitesearch" value="https://decarbdirect.com/">
                 <span class="input-group-btn">
                     <button type="submit" class="btn btn-template-main"><i class="fas fa-search"></i></button>
                 </span>
@@ -466,19 +342,7 @@ We&rsquo;ll start with creating a new site with a very basic template.</p>
             
             
             <li>
-                <a href="/categories/lorem">LOREM (2)</a>
-            </li>
-            
-            <li>
-                <a href="/categories/programming">PROGRAMMING (3)</a>
-            </li>
-            
-            <li>
-                <a href="/categories/pseudo">PSEUDO (2)</a>
-            </li>
-            
-            <li>
-                <a href="/categories/starting">STARTING (1)</a>
+                <a href="/categories/international">INTERNATIONAL (3)</a>
             </li>
             
         </ul>
@@ -504,27 +368,15 @@ We&rsquo;ll start with creating a new site with a very basic template.</p>
             
             
             <li >
-                <a href="/tags/go"><i class="fas fa-tags"></i> go</a>
+                <a href="/tags/ar6"><i class="fas fa-tags"></i> ar6</a>
             </li>
             
             <li >
-                <a href="/tags/golang"><i class="fas fa-tags"></i> golang</a>
+                <a href="/tags/cop21"><i class="fas fa-tags"></i> cop21</a>
             </li>
             
             <li >
-                <a href="/tags/hugo"><i class="fas fa-tags"></i> hugo</a>
-            </li>
-            
-            <li >
-                <a href="/tags/ipsum"><i class="fas fa-tags"></i> ipsum</a>
-            </li>
-            
-            <li >
-                <a href="/tags/programming"><i class="fas fa-tags"></i> programming</a>
-            </li>
-            
-            <li >
-                <a href="/tags/theme"><i class="fas fa-tags"></i> theme</a>
+                <a href="/tags/ipcc"><i class="fas fa-tags"></i> ipcc</a>
             </li>
             
         </ul>
@@ -556,9 +408,9 @@ We&rsquo;ll start with creating a new site with a very basic template.</p>
 
         
         <div class="col-md-4 col-sm-6">
-            <h4>About us</h4>
+            <h4>Về Decarb Direct</h4>
 
-            <p>Your partner in decarbonization journey</p>
+            <p><strong>Decarb Direct</strong> cung cấp nền tảng chuyên sâu về kiểm kê phát thải khí nhà kính.</p>
 
             <hr class="hidden-md hidden-lg hidden-sm">
 
@@ -569,46 +421,46 @@ We&rsquo;ll start with creating a new site with a very basic template.</p>
         <div class="col-md-4 col-sm-6">
 
             
-            <h4>Recent posts</h4>
+            <h4>Tin gần đây</h4>
 
             <div class="blog-entries">
                 
                 <div class="item same-height-row clearfix">
                     <div class="image same-height-always">
-                        <a href="http://localhost:1313/decarbnews/categories-post/">
+                        <a href="https://decarbdirect.com/products/dashboard/">
                           
-                            <img src="/img/banners/banner-3.jpg" class="img-responsive" alt="Categories Post">
+                            <img src="/img/placeholder.png" class="img-responsive" alt="GHG dashboard">
                           
                         </a>
                     </div>
                     <div class="name same-height-always">
-                        <h5><a href="http://localhost:1313/decarbnews/categories-post/">Categories Post</a></h5>
+                        <h5><a href="https://decarbdirect.com/products/dashboard/">GHG dashboard</a></h5>
                     </div>
                 </div>
                 
                 <div class="item same-height-row clearfix">
                     <div class="image same-height-always">
-                        <a href="http://localhost:1313/resources/resources/linked-post/">
+                        <a href="https://decarbdirect.com/products/analytics/">
                           
-                            <img src="/img/banners/banner-4.jpg" class="img-responsive" alt="Linked post">
+                            <img src="/img/placeholder.png" class="img-responsive" alt="GHG Analytics">
                           
                         </a>
                     </div>
                     <div class="name same-height-always">
-                        <h5><a href="http://localhost:1313/resources/resources/linked-post/">Linked post</a></h5>
+                        <h5><a href="https://decarbdirect.com/products/analytics/">GHG Analytics</a></h5>
                     </div>
                 </div>
                 
                 <div class="item same-height-row clearfix">
                     <div class="image same-height-always">
-                        <a href="http://localhost:1313/resources/resources/go-is-for-lovers/">
+                        <a href="https://decarbdirect.com/products/reporting/">
                           
-                            <img src="/img/banners/banner-2.jpg" class="img-responsive" alt="Go is for lovers">
+                            <img src="/img/placeholder.png" class="img-responsive" alt="GHG Reporting">
                           
                         </a>
                     </div>
                     <div class="name same-height-always">
-                        <h5><a href="http://localhost:1313/resources/resources/go-is-for-lovers/">Go is for lovers</a></h5>
+                        <h5><a href="https://decarbdirect.com/products/reporting/">GHG Reporting</a></h5>
                     </div>
                 </div>
                 
@@ -623,15 +475,15 @@ We&rsquo;ll start with creating a new site with a very basic template.</p>
         
         <div class="col-md-4 col-sm-6">
 
-          <h4>Contact</h4>
+          <h4>Thông tin liên hệ</h4>
 
             <p class="text-uppercase"><strong>Decarb Direct Partners</strong>
-        <br>Hanoi
-        <br>Vietnam
-        </p>
-      
+                <br>Hà Nội
+                <br>Việt Nam
+                </p>
+                
 
-	    <a href="/contact" class="btn btn-small btn-template-main">Go to contact page</a>
+	    <a href="/contact" class="btn btn-small btn-template-main">Liên hệ Decarb Direct</a>
 
             <hr class="hidden-md hidden-lg hidden-sm">
 
